@@ -4,7 +4,7 @@ let arr = [
     {id: 3, name: "kepler lima", surname: "pepe"},
     {id: 4, name: "sergio", surname: "ramos"},
     {id: 5, name: "emre", surname: "belezoğlu"},
-    {id: 6, name: "xavi", surname: "alagoz"},
+    {id: 6, name: "xavi", surname: "hernandez"},
     {id: 7, name: "cristiano", surname: "ronaldo"},
     {id: 8, name: "steven", surname: "gerrard"},
     {id: 9, name: "fernando", surname: "torres"},
